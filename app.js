@@ -79,4 +79,4 @@ const checkWinner=()=>{
 }
 new_btn.addEventListener("click",resetGame);
 reser_btn.addEventListener("click",resetGame)
-//commant for testing 
+  // commit for testing perpus
